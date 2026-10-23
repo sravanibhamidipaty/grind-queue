@@ -1,6 +1,6 @@
 # Web Development Final Project - GrindQueue
 
-Submitted by: **Kiran Bhamidipaty**
+Submitted by: **Sravani Bhamidipaty**
 
 This web app: **GrindQueue is a LeetCode / interview-prep forum. Users post problems, questions, resources, and opinions, then upvote them so the most important things to study rise to the top, turning the feed into a shared priority queue.**
 
@@ -89,7 +89,7 @@ The secret key is pseudo-authentication only. With RLS disabled, anyone with the
 
 ## License
 
-    Copyright 2026 Kiran Bhamidipaty
+    Copyright 2026 Sravani Bhamidipaty
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
