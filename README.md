@@ -4,8 +4,6 @@ Submitted by: **Sravani Bhamidipaty**
 
 This web app: **GrindQueue is a LeetCode / interview-prep forum. Users post problems, questions, resources, and opinions, then upvote them so the most important things to study rise to the top, turning the feed into a shared priority queue.**
 
-Time spent: **X** hours spent in total
-
 Deployed site: **[https://grind-queue.onrender.com](https://grind-queue.onrender.com)**
 
 ## Required Features
