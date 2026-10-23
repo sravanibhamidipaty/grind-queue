@@ -6,7 +6,7 @@ This web app: **GrindQueue is a LeetCode / interview-prep forum. Users post prob
 
 Time spent: **X** hours spent in total
 
-Deployed site: **[https://your-app.onrender.com](https://your-app.onrender.com)**
+Deployed site: **[https://grind-queue.onrender.com](https://grind-queue.onrender.com)**
 
 ## Required Features
 
