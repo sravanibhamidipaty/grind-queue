@@ -1,0 +1,18 @@
+# Render Blueprint: static site for GrindQueue
+services:
+  - type: web
+    name: grind-queue
+    runtime: static
+    buildCommand: npm ci && npm run build
+    staticPublishPath: ./dist
+    # Send every path to index.html so React Router handles /post/:id on refresh
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    # Values are entered in the Render dashboard, never committed
+    envVars:
+      - key: VITE_SUPABASE_URL
+        sync: false
+      - key: VITE_SUPABASE_KEY
+        sync: false
